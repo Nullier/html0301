@@ -1,0 +1,102 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+</style>
+	</head>
+	<body>
+		<h1>网站一级导航</h1>
+		<a href="http://www.baidu.com">导航链接一</a><br>
+		<a href="http://www.baidu.com">导航链接二</a><br>
+		<a href="http://www.baidu.com">导航链接三</a><br>
+		<a href="http://www.baidu.com">导航链接四</a><br>
+		<a href="http://www.baidu.com">导航链接五</a><br>
+		<h2>文章一级标题</h2>
+		<h3>文章二级标题</h3>
+		<p>文章作者&nbsp;文章发表时间</p>
+		<p>这是一个很长很长很长的段落这是一个很长很长很长的段落这是一个很长很长很长的段落这是一个很长很长很长的段落<br>换行了<br>这是一个很长很长很长的段落这是一个很长很长很长的段落这是一个换行<br>很长很长很长的很长很长
+		很长的很<a href="http://ife.baidu.com" title="我是个链接">这里有个链接</a>长很长很长的很长很长很长的很<strong>这里有个加粗</strong>长很长很长的很长很长很长的很长很长很长的很长很长很长的很长很长很长的很长很长很长的很长很长很长的段落</p>
+		<img src="https://imgsa.baidu.com/baike/crop%3D0%2C18%2C550%2C363%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b4c16d869dcad1c8c4f4a667420e4b38/a5c27d1ed21b0ef49f5ae5f7d5c451da80cb3eec.jpg"alt="#" title="百度">
+		<p>这是一个很长很长很长的段落这是一个很长很长很长的段落这是一个很长很长很长的段落这是一个很长很长很长的段落这是一个很长很长很长的段,<br>又换行了<br>落这是一个很长很长<a href="http://www.baidu.com" target="_blank">这回跳转到新页面连接</a>很长的段落这是一个很长很长很长的段落这是一个很长很长很长的段落</p>
+		<img src="https://imgsa.baidu.com/baike/crop%3D0%2C18%2C550%2C363%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b4c16d869dcad1c8c4f4a667420e4b38/a5c27d1ed21b0ef49f5ae5f7d5c451da80cb3eec.jpg"alt="#" title="百度">
+		<h2>另一个文章一级标题</h2>
+		<h3>文章二级标题</h3>
+		<p>文章作者&nbsp;文章发表时间</p>
+		<p>这是一个很长很长很长的段落这是一个很长很长很长的段落<a href="http://ife.baidu.com" title="我是个链接">这里有个链接</a>这是一个很长很长很长的段落这是一个很长很长很长的段落<br>换行了<br>这是一个很长很长很长的段落这是一个很长很长很长的段落这是一个换行<br>很长很长很长的很长很长
+		<img src="https://imgsa.baidu.com/baike/crop%3D0%2C18%2C550%2C363%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b4c16d869dcad1c8c4f4a667420e4b38/a5c27d1ed21b0ef49f5ae5f7d5c451da80cb3eec.jpg"alt="#" title="百度">
+		<ul>
+			<li>列表一</li>
+			<li>列表二</li>
+			<li>列表三</li>
+			<li>列表四</li>
+			</ul>
+		<h2>图片</h2>
+		<h3>好看的图片</h3>
+		<img src="https://imgsa.baidu.com/baike/crop%3D0%2C18%2C550%2C363%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b4c16d869dcad1c8c4f4a667420e4b38/a5c27d1ed21b0ef49f5ae5f7d5c451da80cb3eec.jpg"alt="#" title="百度">
+		<h3>好看的图片</h3>
+		<img src="https://imgsa.baidu.com/baike/crop%3D0%2C18%2C550%2C363%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b4c16d869dcad1c8c4f4a667420e4b38/a5c27d1ed21b0ef49f5ae5f7d5c451da80cb3eec.jpg"alt="#" title="百度">
+		<h3>好看的图片</h3>
+		<img src="https://imgsa.baidu.com/baike/crop%3D0%2C18%2C550%2C363%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b4c16d869dcad1c8c4f4a667420e4b38/a5c27d1ed21b0ef49f5ae5f7d5c451da80cb3eec.jpg"alt="#" title="百度">
+		<h3>好看的图片</h3>
+		<img src="https://imgsa.baidu.com/baike/crop%3D0%2C18%2C550%2C363%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b4c16d869dcad1c8c4f4a667420e4b38/a5c27d1ed21b0ef49f5ae5f7d5c451da80cb3eec.jpg"alt="#" title="百度">
+		<h2>最后的文章一级标题</h2>
+		<h3>文章二级标题</h3>
+		<p>文章作者&nbsp;文章发表时间</p>
+		<ol>
+		<li>排名1</li>
+		<li>排名2</li>
+		<li>排名2</li>
+		</ol>
+		<p>下面应该是一个表格</p>
+		<table border=1px>
+		<tbody>
+		<tr>
+		<th>表头</th>
+		<th>表头</th>
+		<th>表头</th>
+		</tr>
+		<tr>
+		<td>中部</td>
+		<td>中部</td>
+		<td>中部</td>
+		</tr>
+		<tr>
+		<td>中部</td>
+		<td>中部</td>
+		<td>中部</td>
+		</tr>
+		<tr>
+		<td>SUM</td>
+		<td colspan=2>1000</td>
+		</tr>
+		</tbody>
+		</table>
+		
+		<div>
+		<h2>据说以后是一个侧栏
+		<br>注册表单
+		</h2>
+		<p>
+		<form method="post" action="save.php">
+		<label for="email">请输入邮箱地址</label>
+		<input type="email"  name="email" id="email" value="请输入邮箱地址"/> 
+		<br/>
+		<label for="password">请输入密码</label>
+		<input type="password"  name="password" id="password" value=""/> 
+		<br/>
+		<label for="password">请再次输入密码</label>
+		<input type="password"  name="password" id="password" value=""/>
+		<br>
+		<input type="submit" value="确定"  name="submit" />
+		<input type="reset" value="重置" name="reset" />
+		</p>
+		</form>
+		</div>
+		
+		</p>
+		
+	
+	
+	
+	</body>
+</html>
